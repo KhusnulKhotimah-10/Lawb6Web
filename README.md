@@ -28,3 +28,6 @@ Website ini dibuat sebagai tugas Praktikum dengan tujuan untuk mempelajari pengg
 
 <img width="1920" height="1200" alt="Screenshot 2025-10-27 220620" src="https://github.com/user-attachments/assets/c3e809bd-b939-40c3-89bf-1817c8d5b780" />
 
+<img width="1920" height="1200" alt="Screenshot 2025-10-27 222109" src="https://github.com/user-attachments/assets/90b3f332-6afe-410b-921b-8bb2ec45d57b" />
+
+
